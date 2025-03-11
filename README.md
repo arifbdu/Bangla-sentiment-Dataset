@@ -1,2 +1,1 @@
-# Bangla sentiment Dataset
- 
+The dataset utilized comprises 1023 online data, of which 173 are positive and 834 are negative statements. For classifying sentiments five baseline classifiers DT, SVC, KNN, RF, and NB were utilized along with a proposed stacking ensemble technique for enhanced sentiment classification. The results showed that among the baseline classifiers SVC achieved the highest accuracy of 89.27%. After leveraging the SMOTE technique for holding imbalanced data, SVC demonstrated a remarkable improvement by attaining an accuracy of 96.18%.
